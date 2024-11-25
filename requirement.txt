@@ -1,6 +1,7 @@
 # requirements.txt
-snowflake-snowpark-python
-streamlit
-requests
-pandas
+snowflake-snowpark-python==1.0.0
+streamlit==1.21.0
+requests==2.28.1
+pandas==1.5.3
+
 
